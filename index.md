@@ -16,10 +16,13 @@ Although current TTS systems can already achieve human-parity voice quality, the
 ## Sentences
 
 <table align="center">
-    <tr><th>Transcript</th><th>NS2</th><th>NS2+CCSP</th></tr>
+    <tr><th>Transcript</th><th>Reference</th><th>NS2</th><th>NS2+CCSP</th></tr>
     <tr>
         <td width="60%" style="word-wrap:break-word;">
             They ventured into the temple, facing intricate puzzles and cunning traps.
+        </td>
+		<td>
+            <audio controls style="width: 150px;"><source src="Samples/Reference/s-1.wav"></audio><br>
         </td>
         <td>
             <audio controls style="width: 150px;"><source src="Samples/NS2/s-1.wav"></audio><br>
@@ -32,6 +35,9 @@ Although current TTS systems can already achieve human-parity voice quality, the
         <td width="60%" style="word-wrap:break-word;">
             
         </td>
+		<td>
+            <audio controls style="width: 150px;"><source src="Samples/Reference/s-2.wav"></audio><br>
+        </td>
         <td>
             <audio controls style="width: 150px;"><source src="Samples/NS2/s-2.wav"></audio><br>
         </td>
@@ -42,6 +48,9 @@ Although current TTS systems can already achieve human-parity voice quality, the
     <tr>
         <td width="60%" style="word-wrap:break-word;">
             
+        </td>
+		<td>
+            <audio controls style="width: 150px;"><source src="Samples/Reference/s-3.wav"></audio><br>
         </td>
         <td>
             <audio controls style="width: 150px;"><source src="Samples/NS2/s-3.wav"></audio><br>
