@@ -18,7 +18,7 @@ Although current TTS systems can already achieve human-parity voice quality, the
 <table align="center">
     <tr><th>Transcript</th><th>Reference</th><th>NS2</th><th>NS2+CCSP</th></tr>
     <tr>
-        <td width="60%" style="word-wrap:break-word;">
+        <td rowspan="3" width="60%" style="word-wrap:break-word;">
             They ventured into the temple, facing intricate puzzles and cunning traps.
         </td>
 		<td>
@@ -32,9 +32,6 @@ Although current TTS systems can already achieve human-parity voice quality, the
         </td>
     </tr>
     <tr>
-        <td width="60%" style="word-wrap:break-word;">
-            
-        </td>
 		<td>
             <audio controls style="width: 150px;"><source src="Samples/Reference/s-2.wav"></audio><br>
         </td>
@@ -46,9 +43,6 @@ Although current TTS systems can already achieve human-parity voice quality, the
         </td>
     </tr>
     <tr>
-        <td width="60%" style="word-wrap:break-word;">
-            
-        </td>
 		<td>
             <audio controls style="width: 150px;"><source src="Samples/Reference/s-3.wav"></audio><br>
         </td>
