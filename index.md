@@ -18,7 +18,7 @@ Although current TTS systems can already achieve human-parity voice quality, the
 <table align="center">
     <tr><th>Transcript</th><th>Reference</th><th>NS2</th><th>NS2+CCSP</th></tr>
     <tr>
-        <td rowspan="3" width="60%" style="word-wrap:break-word;">
+        <td width="60%" style="word-wrap:break-word;">
             They ventured into the temple, facing intricate puzzles and cunning traps.
         </td>
 		<td>
@@ -32,25 +32,31 @@ Although current TTS systems can already achieve human-parity voice quality, the
         </td>
     </tr>
     <tr>
+		<td width="60%" style="word-wrap:break-word;">
+            People praised their bravery and selflessness.
+        </td>
 		<td>
             <audio controls style="width: 150px;"><source src="Samples/Reference/s-2.wav"></audio><br>
         </td>
         <td>
-            <audio controls style="width: 150px;"><source src="Samples/NS2/s-2.wav"></audio><br>
+            <audio controls style="width: 150px;"><source src="Samples/NS2/s-2-2.wav"></audio><br>
         </td>
         <td>
-            <audio controls style="width: 150px;"><source src="Samples/NS2+CCSP/s-2.wav"></audio><br>
+            <audio controls style="width: 150px;"><source src="Samples/NS2+CCSP/s-2-2.wav"></audio><br>
         </td>
     </tr>
     <tr>
+		<td width="60%" style="word-wrap:break-word;">
+            Once upon a time, in a small town nestled amidst rolling hills, lived two friends, Alex and Emily. 
+        </td>
 		<td>
             <audio controls style="width: 150px;"><source src="Samples/Reference/s-3.wav"></audio><br>
         </td>
         <td>
-            <audio controls style="width: 150px;"><source src="Samples/NS2/s-3.wav"></audio><br>
+            <audio controls style="width: 150px;"><source src="Samples/NS2/s-3-2.wav"></audio><br>
         </td>
         <td>
-            <audio controls style="width: 150px;"><source src="Samples/NS2+CCSP/s-3.wav"></audio><br>
+            <audio controls style="width: 150px;"><source src="Samples/NS2+CCSP/s-3-2.wav"></audio><br>
         </td>
     </tr>
 </table>
