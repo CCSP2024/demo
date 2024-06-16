@@ -87,4 +87,26 @@ Although current TTS systems can already achieve human-parity voice quality, the
             <audio controls style="width: 150px;"><source src="Samples/NS2+CCSP/p-2.wav"></audio><br>
         </td>
     </tr>  
+    <tr>
+        <td width="60%" style="word-wrap:break-word;">
+          The man chuckled and said, "I can assist you, but on one condition – you must help me complete a task." After a moment's contemplation, they agreed, curious about the man's proposition. He led them through perilous mountain valleys until they arrived at an ancient temple.
+        </td>
+        <td>
+            <audio controls style="width: 150px;"><source src="Samples/NS2/p-3.wav"></audio><br>
+        </td>
+        <td>
+            <audio controls style="width: 150px;"><source src="Samples/NS2+CCSP/p-3.wav"></audio><br>
+        </td>
+    </tr>
+    <tr>
+        <td width="60%" style="word-wrap:break-word;">
+          However, amidst their excitement and greed, the rugged man reappeared, wearing an evil grin. "Thank you for your assistance, but this treasure now belongs to me," he declared. Filled with righteous anger, they gripped the sword and prepared to battle.
+        </td>
+        <td>
+            <audio controls style="width: 150px;"><source src="Samples/NS2/p-4.wav"></audio><br>
+        </td>
+        <td>
+            <audio controls style="width: 150px;"><source src="Samples/NS2+CCSP/p-4.wav"></audio><br>
+        </td>
+    </tr>
 </table>
