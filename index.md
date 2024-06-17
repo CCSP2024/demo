@@ -120,10 +120,10 @@ Although current TTS systems can already achieve human-parity voice quality, the
           Lawson also evaluated the security hazards at the trade mart on november thirteen.
         </td>
         <td>
-            <audio controls style="width: 150px;"><source src="Samples/NS2/s-1_m.wav"></audio><br>
+            <audio controls style="width: 150px;"><source src="Samples/NS2/s-1_m.mp3"></audio><br>
         </td>
         <td>
-            <audio controls style="width: 150px;"><source src="Samples/NS2+CCSP/s-1_m.wav"></audio><br>
+            <audio controls style="width: 150px;"><source src="Samples/NS2+CCSP/s-1_m.mp3"></audio><br>
         </td>
     </tr>
     <tr>
@@ -131,10 +131,10 @@ Although current TTS systems can already achieve human-parity voice quality, the
           It was so used for the date of the abolition of the star chamber in the sixteenth charles the first.
         </td>
         <td>
-            <audio controls style="width: 150px;"><source src="Samples/NS2/s-2_m.wav"></audio><br>
+            <audio controls style="width: 150px;"><source src="Samples/NS2/s-2_m.mp3"></audio><br>
         </td>
         <td>
-            <audio controls style="width: 150px;"><source src="Samples/NS2+CCSP/s-2_m.wav"></audio><br>
+            <audio controls style="width: 150px;"><source src="Samples/NS2+CCSP/s-2_m.mp3"></audio><br>
         </td>
     </tr>  
     <tr>
@@ -142,10 +142,10 @@ Although current TTS systems can already achieve human-parity voice quality, the
           The soviet authorities denied oswald permission.
         </td>
         <td>
-            <audio controls style="width: 150px;"><source src="Samples/NS2/s-3_m.wav"></audio><br>
+            <audio controls style="width: 150px;"><source src="Samples/NS2/s-3_m.mp3"></audio><br>
         </td>
         <td>
-            <audio controls style="width: 150px;"><source src="Samples/NS2+CCSP/s-3_m.wav"></audio><br>
+            <audio controls style="width: 150px;"><source src="Samples/NS2+CCSP/s-3_m.mp3"></audio><br>
         </td>
     </tr>
     <tr>
@@ -153,10 +153,10 @@ Although current TTS systems can already achieve human-parity voice quality, the
           And therefore approximately one point six seconds after the president was shot in the head.
         </td>
         <td>
-            <audio controls style="width: 150px;"><source src="Samples/NS2/s-4_m.wav"></audio><br>
+            <audio controls style="width: 150px;"><source src="Samples/NS2/s-4_m.mp3"></audio><br>
         </td>
         <td>
-            <audio controls style="width: 150px;"><source src="Samples/NS2+CCSP/s-4_m.wav"></audio><br>
+            <audio controls style="width: 150px;"><source src="Samples/NS2+CCSP/s-4_m.mp3"></audio><br>
         </td>
     </tr>
 </table>
